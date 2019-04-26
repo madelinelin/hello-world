@@ -446,7 +446,7 @@ par(mfrow=c(1,1))
 plot(pc1,col=rainbow(0))
 ```
 
-```{r, include=TRUE, echo=FALSE, message=FALSE, results='hide'}
+```{r, include=TRUE, echo=FALSE, message=FALSE, results='hide', fig.width=6, fig.height=5, fig.align="center}
 
 #several biplots show the first two PCs and how these groups are segmented
 sm["Working Professionals"] = sm$automotive+sm$computers+sm$travel+sm$news+sm$politics
