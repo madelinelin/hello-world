@@ -35,8 +35,8 @@ and rescale other variables to do unsupervised analysis.
 Here, we deploy 2 centers, to measure how well clustering is able to
 distinguish between whites and reds (preferably reds cluster and whites
 cluster).
-
-![](HW4_files/figure-markdown_strict/unnamed-chunk-4-1.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-4-2.png)
+![](HW4%20pic/unnamed-chunk-4-1.png)
+![](HW4%20pic/unnamed-chunk-4-2.png)
 
     ##                          wine1$color
     ## cluster_2_centers$cluster  red white
@@ -51,7 +51,7 @@ whites using 2 centers with chemical properties.
 
 *Quality*
 
-![](HW4_files/figure-markdown_strict/quality_distribution-1.png)
+![](HW4%20pic/quality_distribution-1.png)
 
 Next for quality, we intend to use 10 centers, corresponding to 1-10 of
 wine quality. However, since we observe that there are no 1,2 and 10
@@ -60,7 +60,7 @@ clusters corresponding to quality from 3-9.
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](HW4%20pic/unnamed-chunk-5-1.png)
 
     ##                          wine$quality
     ## cluster_7_centers$cluster   3   4   5   6   7   8   9
@@ -106,7 +106,7 @@ following graph, we can see PCA does well in distinguishing reds from
 whites. The plot shows two clear clusters separating reds from whites
 with only very few overlap.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](HW4%20pic/unnamed-chunk-8-1.png)
 
 With 0.9836848 &lt; 0.9858396, reduce dimensions before clustering to
 distinguish between whites and reds is worse than simple K-mean
@@ -120,7 +120,7 @@ distinguishing wines with different quality levels. The graph is blurry.
 Different quality levels of wine center in the same area with the
 similar component 1/component 2 variance.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](HW4%20pic/unnamed-chunk-10-1.png)
 
 Next, we apply PCA before trying to conduct a 7 cluster. However, as the
 graph below represents, it does not help us to distinguish between
@@ -175,7 +175,7 @@ inappropriate.
 
 ***Overview the Data***
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+![](HW4%20pic/unnamed-chunk-14-1.png)
 
 We can get a rough sense of the whole data set a bit. Photo Sharing and
 Health Nutrition are the most popular topics for tweets. Apart from
@@ -190,7 +190,7 @@ segments for product promotion.
 
 ***Clustering Method***
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-15-1.png)
+![](HW4%20pic/unnamed-chunk-15-1.png)
 
 We would like to find an optimal K to do the clustering. By using CH
 Index, we can see that K=2 has a max CH. However, we feel that 2
@@ -205,7 +205,7 @@ cannot make a complete corresponding analysis to the graph we produce.
 Here, we only summarize our insights and give suggestions based on the
 graph result we ran for a typical one time.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-17-1.png)
+![](HW4%20pic/unnamed-chunk-17-1.png)
 
 **Cluster 1 Young Adults Before Marriage**
 
@@ -223,7 +223,7 @@ We would suggest NutrientH2O to do something realted to social
 relationship. Just like the app Bumble, it offers a platform to let
 youngsters make online friends/date with people of same interests.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-18-1.png)
+![](HW4%20pic/unnamed-chunk-18-1.png)
 
 **Cluster 2 Working Professionals**
 
@@ -242,7 +242,7 @@ up-to-date news related to cars, computers, travel information and
 politics. These topics of news will surely be eye-catching for those
 working professionals.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-19-1.png)
+![](HW4%20pic/unnamed-chunk-19-1.png)
 
 **Cluster 3 Fashion Chasers**
 
@@ -260,7 +260,7 @@ deeper about social media area. For example, NutrientH2O can hold some
 online competition about retweets and posts to reward people whose
 instagram posts have the highest number of sharings.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-20-1.png)
+![](HW4%20pic/unnamed-chunk-20-1.png)
 
 **Cluster 4 Typical Moms**
 
@@ -284,7 +284,7 @@ instance, NutrientH2O can develop a certain product which can be a
 leisure entertainment for those moms when they are waiting for kids from
 school.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-21-1.png)
+![](HW4%20pic/unnamed-chunk-21-1.png)
 
 **Cluster 5 Young Students**
 
@@ -304,7 +304,7 @@ firece (not super slow pace or relaxing sports which are tailored to the
 old), online games which have more visual effects since youngsters love
 reckless competitions.
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-22-1.png)
+![](HW4%20pic/unnamed-chunk-22-1.png)
 
 **Cluster 6 Fit Generation**
 
@@ -323,9 +323,14 @@ nutritious products which are attracted by those people.
 
 ***PCA Method***
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-25-1.png)
+![](HW4%20pic/unnamed-chunk-25-1.png)
 
-![](HW4_files/figure-markdown_strict/unnamed-chunk-26-1.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-26-2.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-26-3.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-26-4.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-26-5.png)![](HW4_files/figure-markdown_strict/unnamed-chunk-26-6.png)
+![](HW4%20pic/unnamed-chunk-26-1.png)
+![](HW4%20pic/unnamed-chunk-26-2.png)
+![](HW4%20pic/unnamed-chunk-26-3.png)
+![](HW4%20pic/unnamed-chunk-26-4.png)
+![](HW4%20pic/unnamed-chunk-26-5.png)
+![](HW4%20pic/unnamed-chunk-26-6.png)
 
 We pick up the first two most importants components to make further
 analysis. These six plots show six groups we indentified when we use
@@ -354,7 +359,7 @@ For the given data set, we first examine the distribution of items
 bought. From the graph below, the most popular good is whole milk,
 followed by other vegetables, rolls and buns, soda then yogurt.
 
-![](HW4_files/figure-markdown_strict/basic_distribution-1.png)
+![](HW4%20pic/basic_distribution-1.png)
 
 We start by looping over support ranging from 0.009 to 0.05 and
 confidence from 0.2 to 0.5. For these different combinations, we look
@@ -465,13 +470,13 @@ milk and/or other vegetables.
     ## max   =  100
     ## verbose   =  FALSE
 
-![](HW4_files/figure-markdown_strict/importance_baskets-1.png)
+![](HW4%20pic/importance_baskets-1.png)
 
 The graph gives us a depiction of the importance of the various basket
 items. Whole milk and other vegetables appear to be the most common
 items are in the middle with branches extending outwards to other items.
 
-![](HW4_files/figure-markdown_strict/two_key%20plot-1.png)
+![](HW4%20pic/two_key%20plot-1.png)
 
 The next one gives us a two-key plot, not for only the subset but the
 whole set of values as a function of support and confidence.
@@ -495,11 +500,11 @@ whole set of values as a function of support and confidence.
     ## Itemsets in Consequent (RHS)
     ## [1] "{other vegetables}" "{whole milk}"
 
-![](HW4_files/figure-markdown_strict/matrix_rules-1.png)
+![](HW4%20pic/matrix_rules-1.png)
 
     plot(subrules, method="graph", control=list(layout=igraph::in_circle()))
 
-![](HW4_files/figure-markdown_strict/matrix_rules-2.png)
+![](HW4%20pic/matrix_rules-2.png)
 
 The final graphs are a matrix representation of the matrix of rules with
 the color scale showing the lift. We can match the matrix to the lift
