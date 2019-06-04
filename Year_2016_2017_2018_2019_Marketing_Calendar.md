@@ -1,7 +1,7 @@
 No.1 Bar Chart: Number of Submissions of Different Film Categories
 ------------------------------------------------------------------
 
-![](AFF4pic/unnamed-chunk-2-1.png)
+![](AFFpic/unnamed-chunk-2-1.png)
 ![](AFF4%20pic/unnamed-chunk-2-2.png)
 ![](AFF4%20pic/unnamed-chunk-2-3.png)
 ![](AFF4%20pic/unnamed-chunk-2-4.png)
