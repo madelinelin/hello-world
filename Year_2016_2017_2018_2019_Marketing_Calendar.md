@@ -1,7 +1,11 @@
 No.1 Bar Chart: Number of Submissions of Different Film Categories
 ------------------------------------------------------------------
 
-![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-1.png)![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-2.png)![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-3.png)![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-4.png)![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-5.png)
+![](AFF4%20picYear_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-2.png)
+![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-3.png)
+![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-4.png)
+![](Year_2016_2017_2018_2019_Marketing_Calendar_files/figure-markdown_strict/unnamed-chunk-2-5.png)
 
 No.1: Four Years' Data in One Chart
 -----------------------------------
