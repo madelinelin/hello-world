@@ -7,7 +7,7 @@ No.1 Bar Chart: Number of Submissions of Different Film Categories
 ![](AFF%20pic/unnamed-chunk-2-4.png)
 ![](AFF%20pic/unnamed-chunk-2-5.png)
 
-No.1: Four Years' Data in One Chart
+No.1 Four Years' Data in One Chart
 -----------------------------------
 
 ![](AFF%20pic/unnamed-chunk-3-1.png)
