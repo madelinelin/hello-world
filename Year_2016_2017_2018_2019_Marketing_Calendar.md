@@ -21,7 +21,7 @@ No.2 Lollipop Chart: Number of Submissions of Different Days
 ![](AFF%20pic/unnamed-chunk-4-4.png)
 ![](AFF%20pic/unnamed-chunk-4-5.png)
 
-No.2: Four Years' Data in One Chart
+No.2 Four Years' Data in One Chart
 -----------------------------------
 
 ![](AFF%20pic/unnamed-chunk-5-1.png)
@@ -35,7 +35,7 @@ No.3 Dot Chart: Number of Submissions of Different Days
 ![](AFF%20pic/unnamed-chunk-6-4.png)
 ![](AFF%20pic/unnamed-chunk-6-5.png)
 
-No.3: Four Years' Data in One Chart
+No.3 Four Years' Data in One Chart
 -----------------------------------
 
 ![](AFF%20pic/unnamed-chunk-7-1.png)
